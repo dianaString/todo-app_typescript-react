@@ -2,6 +2,7 @@
 	"name": "todo-app_typescript-react",
 	"private": true,
 	"version": "0.0.0",
+	"homepage": "https://dianastring.github.io/todo-app_typescript-react/",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
