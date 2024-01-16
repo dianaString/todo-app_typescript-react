@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dianastring.github.io/Avie-Bird",
+  "homepage": "https://dianastring.github.io/todo-app_typescript-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
