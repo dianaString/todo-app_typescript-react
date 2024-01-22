@@ -1,6 +1,6 @@
 # Todo App en React con TypeScript
 
-![](<todo-example.gif>)
+![](<src/assets/todo-example.gif>)
 
 ### Primera toma de contacto con TypeScript!
 Gracias al tutorial de midudev "[Tutorial práctico: React y TypeScript paso a paso](https://www.youtube.com/watch?v=4lAYfsq-2TE)" por enseñarme las bases de este lenguaje de programación 😄
